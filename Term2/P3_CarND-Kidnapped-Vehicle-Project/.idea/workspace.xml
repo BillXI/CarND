@@ -11,135 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcd5686e-64a4-4e08-8117-060305c9c61e" name="Default" comment="Half done.">
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/.ipynb_checkpoints/Advanced Lane Finding Note-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/1. Finding lane lines on the road/.ipynb_checkpoints/Finding lane line on the road-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/1. Finding lane lines on the road/CarND-LaneLines-P1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/1. Finding lane lines on the road/Finding lane line on the road.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/1. Finding lane lines on the road/Hough Space.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/1. Finding lane lines on the road/edges-exitramp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/1. Finding lane lines on the road/exit-ramp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/1. Finding lane lines on the road/test.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/Advanced Lane Finding Note.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/.ipynb_checkpoints/Convolutional Network in TensorFlow-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/1_intuition.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/2_filter.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/3.Parameters.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/4.Parameters_tf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/5.Quiz.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/6.Quiz_solution.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/7.Quiz1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/7.Quiz2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/8.Visualize CNN.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/Convolutional Network in TensorFlow.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/Convolutional Network in TensorFlow.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/TF Convolution Layers.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/TF Max pooling Q.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/TF Max pooling Q2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/TF Max pooling.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/t10k-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/train-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CNN/train-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Behavioral-Cloning-P3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Behavioral-Cloning-P3/drive.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Behavioral-Cloning-P3/examples/placeholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Behavioral-Cloning-P3/examples/placeholder_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Behavioral-Cloning-P3/video.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Behavioral-Cloning-P3/writeup_template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-LeNet-Lab/LeNet-Lab-Solution.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-LeNet-Lab/LeNet-Lab.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-LeNet-Lab/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-LeNet-Lab/lenet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/README.MD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/docker_tensor_setup.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/environment.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/image/learn_rate_tune.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/image/mean_variance.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/image/notmnist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/image/weight_biases.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/jupyter_notebook_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/lab.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/run_jupyter.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-TensorFlow-Lab/solutions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Term1-Starter-Kit-Test/.ipynb_checkpoints/test-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Term1-Starter-Kit-Test/CODEOWNERS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Term1-Starter-Kit-Test/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Term1-Starter-Kit-Test/test.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Term1-Starter-Kit-Test/test.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Term1-Starter-Kit-Test/test.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/CarND-Term1-Starter-Kit-Test/test_output.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/Keras_sample.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/LeNet-Lab-Solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/LeNet-Lab.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/ML_Module/.ipynb_checkpoints/gradient.py-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/ML_Module/data_prep.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/ML_Module/gradient.py.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_10.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_11.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_12.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_5.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_6.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_7.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_8.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/Mini_flow_9.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/miniflow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/MiniFlow/nn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/Perceptron.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/.ipynb_checkpoints/DNN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/CrossEntropy.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/CrossEntropy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/DNN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/Deep NN with TF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/FineTuning TF.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/ReLu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/Save and Restore TF model.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/TF Dropout.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/TF Dropout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/epoch.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/minibatch.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/minibatch/helper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/minibatch/quiz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/multilayer-perceptron.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/multilayer-perceptron/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/multilayer-perceptron/multilayer_perceptron.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/quiz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/sandbox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/softmax.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/softmax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/tf.variable.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/tnnSoftmax.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TensorFlow/tnnSoftmax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TransferLearning/Lab- Cifar10 Aside.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TransferLearning/Lab- Feature Extraction.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TransferLearning/Lab- Feature Extraction_solution.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TransferLearning/Lab- Traffic Sign Inference.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TransferLearning/Lab- Traffic Sign Inference_solution.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TransferLearning/Lab- Training the Feature Extractor.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TransferLearning/Lab- Training the Feature Extractor_solution.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TransferLearning/Lab- VGG, Inception (GoogLeNet) and ResNet.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/TransferLearning/Lab-ImageNet Inference.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/lab.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Term1/Self-driving_Car/parallelized-interactive-machine.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="dcd5686e-64a4-4e08-8117-060305c9c61e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/particle_filter.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/particle_filter.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/particle_filter.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/particle_filter.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PARTICLE_FILTER.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PARTICLE_FILTER.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/particle_filter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/particle_filter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/particle_filter.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/particle_filter.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -167,7 +45,7 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
+            <state relative-caret-position="705">
               <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
@@ -176,11 +54,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="particle_filter.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="particle_filter.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/particle_filter.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="219" column="52" selection-start-line="219" selection-start-column="52" selection-end-line="219" selection-end-column="52" />
+            <state relative-caret-position="324">
+              <caret line="267" column="22" lean-forward="true" selection-start-line="267" selection-start-column="22" selection-end-line="267" selection-end-column="22" />
+              <folding>
+                <element signature="e#93#110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="945">
+                <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -188,8 +81,8 @@
       <file leaf-file-name="particle_filter.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/particle_filter.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="43" column="35" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="35" />
+            <state relative-caret-position="-414">
+              <caret line="35" column="23" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -199,8 +92,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>gen</find>
-      <find>particles</find>
       <find>data</find>
+      <find>sqrt</find>
+      <find>particles</find>
+      <find>temp</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -214,7 +109,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/particle_filter.h" />
+        <option value="$PROJECT_DIR$/src/temp.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/src/particle_filter.cpp" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -227,7 +126,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="840" />
     <option name="height" value="1027" />
@@ -245,6 +144,16 @@
             <path>
               <item name="PARTICLE_FILTER" type="b2602c69:ProjectViewProjectNode" />
               <item name="P3_CarND-Kidnapped-Vehicle-Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PARTICLE_FILTER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P3_CarND-Kidnapped-Vehicle-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PARTICLE_FILTER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P3_CarND-Kidnapped-Vehicle-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PARTICLE_FILTER" type="b2602c69:ProjectViewProjectNode" />
@@ -295,27 +204,36 @@
       <option name="presentableId" value="Default" />
       <updated>1524420581639</updated>
       <workItem from="1524420584420" duration="607000" />
-      <workItem from="1527113888610" duration="11121000" />
+      <workItem from="1527113888610" duration="18435000" />
     </task>
+    <task id="LOCAL-00001" summary="Testing">
+      <created>1527456369719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527456369719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11728000" />
+    <option name="totallyTimeSpent" value="19042000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="840" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17023809" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" weight="0.32948583" />
       <window_info anchor="bottom" id="CMake" order="7" />
-      <window_info anchor="right" id="LuaJ" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16904762" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -324,7 +242,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,7 +255,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Half done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Half done." />
+    <MESSAGE value="Testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -346,6 +264,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/temp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4308">
+          <caret line="294" selection-start-line="294" selection-end-line="294" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/helper_functions.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-125">
@@ -356,16 +281,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/particle_filter.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="43" column="35" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="705">
           <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
@@ -373,10 +291,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/particle_filter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="260" column="21" selection-start-line="260" selection-start-column="21" selection-end-line="260" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="179" column="8" selection-start-line="179" selection-start-column="8" selection-end-line="179" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/particle_filter.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="219" column="52" selection-start-line="219" selection-start-column="52" selection-end-line="219" selection-end-column="52" />
+        <state relative-caret-position="324">
+          <caret line="267" column="22" lean-forward="true" selection-start-line="267" selection-start-column="22" selection-end-line="267" selection-end-column="22" />
+          <folding>
+            <element signature="e#93#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="945">
+            <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

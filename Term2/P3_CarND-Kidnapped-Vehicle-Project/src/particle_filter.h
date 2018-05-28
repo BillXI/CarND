@@ -10,7 +10,7 @@
 #define PARTICLE_FILTER_H_
 
 #include "helper_functions.h"
-
+using namespace std;
 struct Particle {
 
 	int id;
