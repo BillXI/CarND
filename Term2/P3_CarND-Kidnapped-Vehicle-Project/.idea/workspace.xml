@@ -11,14 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcd5686e-64a4-4e08-8117-060305c9c61e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/particle_filter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/particle_filter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/particle_filter.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/particle_filter.h" afterDir="false" />
-    </list>
+    <list default="true" id="dcd5686e-64a4-4e08-8117-060305c9c61e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -204,7 +197,7 @@
       <option name="presentableId" value="Default" />
       <updated>1524420581639</updated>
       <workItem from="1524420584420" duration="607000" />
-      <workItem from="1527113888610" duration="18435000" />
+      <workItem from="1527113888610" duration="18899000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1527456369719</created>
@@ -217,7 +210,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19042000" />
+    <option name="totallyTimeSpent" value="19506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
