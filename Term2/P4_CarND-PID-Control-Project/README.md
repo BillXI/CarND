@@ -19,6 +19,15 @@ Thanks for understanding!
 3. Compile: `cmake .. && make`
 4. Run it: `./pid`. 
 
+## Hyperparameter (P,I,D) Tuning
+I manually tuned the parameter. I first set all the hyperparameters to 0.0, and the results is terrible. Then I tried to set each hyperparameter individually to 1.0 and the rest two 0.0's to get a grasp of the effect of them on the simulation, and the results are showing in the youtube video below. 
+
+I noticed that the differential coefficients playing a vital role in the smooth driving, so I start to increase the value over 1.0, then 5.0, then 10.0. On the other hand, I noticed the integral coefficient is just adding roughness to the driving, so I tried to decrease the value, eventually, I set to 0.0, the driving became much stable.
+
+Even thought the differential coefficient did help the driving at the beginning, but it started behaving badly after the first turning. I knew it would slow to gain the stability, but the simulator need a "hard" control to keep the system back so it can have a small CTE against the reference track. The only coefficient can do that is proportional coefficient, so I increased it. It worked but still drove like a drunk driver. 
+
+Therefore, I just slowly increase the differential coefficient and decrease the proportional coefficient while keep the integral coefficient zero. Eventually, I found the best results is with this set of values: [0.1, 0.0, 20.0].
+
 ## Results:
 I have tried the effect of the P, I, D component of the PID algorithm in their implementation. Here are the result.
 
